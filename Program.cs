@@ -26,9 +26,18 @@ class Program
         //obj3.SWCase();
 
         //NESTED SCWITH 
-        NestedSwitch obj4 = new NestedSwitch();
-        obj4.nestSwitch();
+        //NestedSwitch obj4 = new NestedSwitch();
+        //obj4.nestSwitch();
 
+
+        //  FOR LOOP 
+        //forLoop obj5 = new forLoop();
+        //obj5.fLoop();
+
+
+        //WHILE LOOP
+        whileLoo obj6 = new whileLoo();
+        obj6.wLoop();
 
     }
     
