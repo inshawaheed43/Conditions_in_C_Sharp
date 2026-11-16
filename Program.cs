@@ -22,10 +22,14 @@ class Program
         //obj2.email();
 
         //SWITCH CASE 
-        switchCase obj3 = new switchCase();
-        obj3.SWCase();
+        //switchCase obj3 = new switchCase();
+        //obj3.SWCase();
+
+        //NESTED SCWITH 
+        NestedSwitch obj4 = new NestedSwitch();
+        obj4.nestSwitch();
 
 
     }
-
+    
 }
