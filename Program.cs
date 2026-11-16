@@ -18,8 +18,12 @@ class Program
         //obj1.nestIf();
 
         //NESTED IF 
-        Nestedif obj2 = new Nestedif();
-        obj2.email();
+        //Nestedif obj2 = new Nestedif();
+        //obj2.email();
+
+        //SWITCH CASE 
+        switchCase obj3 = new switchCase();
+        obj3.SWCase();
 
 
     }
