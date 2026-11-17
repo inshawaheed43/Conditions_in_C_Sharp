@@ -40,8 +40,11 @@ class Program
         //obj6.wLoop();
 
 
-        doWhileLoop obj7 = new doWhileLoop();
-        obj7.dwLoop();
+        //doWhileLoop obj7 = new doWhileLoop();
+        //obj7.dwLoop();
+
+
+
 
     }
     
