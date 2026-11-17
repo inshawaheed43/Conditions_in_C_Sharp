@@ -43,7 +43,8 @@ class Program
         //doWhileLoop obj7 = new doWhileLoop();
         //obj7.dwLoop();
 
-
+        NestedFor obj8 = new NestedFor();
+        obj8.nfLoop();
 
 
     }
