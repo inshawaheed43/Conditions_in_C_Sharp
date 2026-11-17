@@ -36,8 +36,12 @@ class Program
 
 
         //WHILE LOOP
-        whileLoo obj6 = new whileLoo();
-        obj6.wLoop();
+        //whileLoo obj6 = new whileLoo();
+        //obj6.wLoop();
+
+
+        doWhileLoop obj7 = new doWhileLoop();
+        obj7.dwLoop();
 
     }
     
