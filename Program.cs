@@ -43,10 +43,11 @@ class Program
         //doWhileLoop obj7 = new doWhileLoop();
         //obj7.dwLoop();
 
-        NestedFor obj8 = new NestedFor();
-        obj8.nfLoop();
+        //NestedFor obj8 = new NestedFor();
+        //obj8.nfLoop();
 
-
+        jumpStatements obj9 = new jumpStatements();
+        obj9.jState();
     }
     
 }
